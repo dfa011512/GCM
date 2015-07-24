@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/ankur/Downloads/gcm-client/GcmClient/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/home/ankur/Downloads/gcm-client/GcmClient/build/intermediates/pre-dexed/debug/classes-f2c95e7259728f26a3a2b46646c05afa60d62db1.jar" />
+    </item>
+    <item
+        jar="/home/ankur/Downloads/gcm-client/GcmClient/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.0.30/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cebe8e4a3a469c4623addcca1dc571407ff3a08e">
+        <dex dex="/home/ankur/Downloads/gcm-client/GcmClient/build/intermediates/pre-dexed/debug/classes-baf58eb599459462a7f60324e7d2e9dddb63fd90.jar" />
+    </item>
+    <item
+        jar="/home/ankur/Downloads/gcm-client/GcmClient/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/home/ankur/Downloads/gcm-client/GcmClient/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-1ab19c55a2eead949af7f87890a0ca850fd61cb9.jar" />
+    </item>
+    <item
+        jar="/home/ankur/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/home/ankur/Downloads/gcm-client/GcmClient/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-74b8167dedd5c21986e8f3de12e35a30ff2bb61e.jar" />
+    </item>
+    <item
+        jar="/home/ankur/Downloads/gcm-client/GcmClient/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/home/ankur/Downloads/gcm-client/GcmClient/build/intermediates/pre-dexed/debug/classes-2293a7bb7403093466b121579e8a4672af542898.jar" />
+    </item>
+
+</items>
